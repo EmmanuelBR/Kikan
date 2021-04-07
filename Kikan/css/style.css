@@ -7,7 +7,7 @@ body {
 	background: #fff;
 }
 
-.header{
+.header {
 	display: flex;
 	align-items: center;
 	background: #244386;
@@ -138,7 +138,7 @@ body {
 	border: none;
 }
 
-.sr{
+.sr {
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -168,7 +168,7 @@ body {
  	margin-left: 15px;
  	margin-right: 15px;
 }
-.cambios .pruebass{
+.cambios .pruebass {
 	border: 2px solid #F7A33C;
  	margin-left: 15px;
  	margin-right: 15px;
@@ -252,20 +252,20 @@ body {
 	padding: 0 25px 0 25px;
 }
 
-.prueba{
+.prueba {
 	display: none;
 }
 
-.pruebass{
+.pruebass {
 	padding: 25px;
 }
 
-.icono 	{
+.icono {
 	display: flex;
 	padding: 0;
 }
 
-.sr{
+.sr {
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -295,8 +295,5 @@ body {
 .footer img {
 	display: flex;
 }
-
-
-
 
 }
