@@ -27,8 +27,6 @@
 	justify-content: space-between;
 }
 
-
-
 .right, .left {
 	display: none;
 }
@@ -61,7 +59,7 @@
 	transition: left 0.7s;
 	left: 7.5%;
 	top: 50%;
-
+	cursor: pointer;
 }
 
 .checkbox:checked ~ .aside-button{
@@ -74,7 +72,7 @@
 	display: flex;
 	flex-direction: column;
 	width: 24%;
-	height: 752px;	
+	height: 750px;	
 	left: -40%;
 	background: #f1f1f1;
 	border: 1px solid #9c9c9c;
@@ -89,7 +87,7 @@
 .aside-none{
 	display: flex;
 	width: 150px;
-	height: 752px;
+	height: 750px;
 	background: #f1f1f1;
 	border: 1px solid #9c9c9c;
 	
@@ -171,6 +169,7 @@
 	background: #004283;
 	border: none;
 	font-family: 'Raleway', sans-serif;
+	cursor: pointer;
 }
 
 .icon-conteiner {
@@ -186,6 +185,7 @@
 	color: #004283;
 	font-weight: bold;
 	font-size: 20px;
+	cursor: pointer;
 }
 
 .icon-conteiner button:hover {
