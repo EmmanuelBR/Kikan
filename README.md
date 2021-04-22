@@ -6,10 +6,6 @@
 
 ---
 
-### Kikan
-
----
-
 ##### Mobile
 
 ![Kikan](img/Mobile.png)
