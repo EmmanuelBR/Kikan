@@ -30,6 +30,7 @@ The buttons are in the center too, because is more easy for the user to press an
 
 ### Figma Design
 
+---
 
 ##### Tablet 
 
@@ -64,4 +65,4 @@ The buttons are in the center too, because is more easy for the user to press an
 
 ### VERCEL 
 
-![github](https://kikan-8a94d37y6-pipos.vercel.app/)
+[github](https://kikan-8a94d37y6-pipos.vercel.app/)
