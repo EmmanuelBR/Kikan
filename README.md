@@ -2,7 +2,7 @@
 
 ---
 
-# Wireframing 
+#### Wireframing 
 
 ---
 
@@ -12,7 +12,7 @@
 
 ##### Mobile
 
-![Kikan Mobile](img/Mobile.png)
+![Kikan](img/Mobile.png)
 
 This is the Mobile view.
 The buttons are in the center because is more accessible to press for the User.
@@ -21,7 +21,7 @@ The buttons are in the center because is more accessible to press for the User.
 
 ##### Ipad
 
-![Kikan Ipad](img/Ipad.png)
+![kikan](img/Ipad.png)
 
 This is the Ipad view.
 The buttons are in the center too, because is more easy for the user to press any one.
@@ -59,7 +59,6 @@ The buttons are in the center too, because is more easy for the user to press an
 ---
 
 ![figma](img/3.png)
-
 
 ---
 
